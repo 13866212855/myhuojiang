@@ -1,0 +1,6 @@
+{
+  "name": "教师获奖材料管理系统",
+  "description": "专为教师打造的本地离线获奖材料管理台账，支持多文件关联、快速检索、失效检测、CSV导出与备份恢复。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
